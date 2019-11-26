@@ -1,5 +1,9 @@
 package Principal;
 
+/**
+ * @author Daniel Simón Mateo
+ */
+
 import java.awt.Color;
 import java.awt.Component;
 import java.awt.Graphics;
